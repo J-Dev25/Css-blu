@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+ul {
+    list-style: none;
+}
+
+.col.one-item,
+.col.two-item,
+.col.three-item {
+    height: max-content;
+    width: max-content;
+    border: 1px solid black;
+    margin-left: 1px;
+}
